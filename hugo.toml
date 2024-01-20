@@ -1,4 +1,0 @@
-baseURL = 'https://jamescube.work/'
-languageCode = 'ko-kr'
-title = 'JAMESCUBE.work'
-theme = "hugo-book"
