@@ -1,6 +1,8 @@
 # Bible
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+가톨릭성경을 기반으로 한 AI 입니다. 
+오늘의 성경 구절을 말씀사탕 형태로 출력해주도록 만드는 것이 목표입니다.
 
-<!--more-->
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+작업 진행률
+
+시작단계 (분석 중)
