@@ -1,0 +1,28 @@
+/* You can add custom styles here. */
+
+// @import "plugins/numbered";
+
+.book-brand {
+    span {
+        background-color: #097;
+        color: white;
+        padding: 4px;
+    }
+}
+
+.book-menu .book-menu-content {
+    border-right: #ddd 1px solid;
+}
+
+.book-page {
+    padding-left: 1.5rem;
+}
+
+.markdown dl dt {
+    font-weight: normal;
+    line-height: 1.8;
+}
+
+.markdown .markdown-inner {
+    font-size: $font-size-12;
+}
