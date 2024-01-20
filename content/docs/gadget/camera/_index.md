@@ -1,8 +1,7 @@
 ---
-title: GPTs
-weight: 3
+title: Camera
 ---
 
-# GPTs
+# Camera
 
 {{<section summary >}}

@@ -1,8 +1,7 @@
 ---
-title: GPTs
-weight: 3
+title: Phone
 ---
 
-# GPTs
+# Phone
 
 {{<section summary >}}

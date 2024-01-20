@@ -1,5 +1,4 @@
 ---
-bookCollapseSection: true
 title: iOS
 weight: 3
 ---
